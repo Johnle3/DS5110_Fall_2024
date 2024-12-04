@@ -101,6 +101,6 @@ Testing inolved simply gathering the Cosmic AI results above and comparing the d
 
 #### Conclusions:
 
-CPU time and Execution time per batch increases with hieger world size. Total lambda cost increases with world size. Steop function cost remains constant as state transitions is constant.
+CPU time and Execution time per batch increases with hieger world size. Total lambda cost increases with world size. Steop function cost remains constant as state transitions is constant. Increasing world size slightly raises costs, but the additional expense is only justifiable if faster processing or higher throughput is critical for the business. Resource utilization, like memory, remains constant, so scaling should be paired with parallel processing to fully leverage additional capacity and ensure efficiency. 
 
 
