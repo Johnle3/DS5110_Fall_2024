@@ -94,6 +94,7 @@ We cloned the cosmic ai state machine and ran executions with world sizes of 1, 
 ##### World Size 10
 ![Screenshot 2024-11-24 140939](https://github.com/user-attachments/assets/c22e8bf0-31c8-4f92-89b4-dafc40f2854a)
 
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/690b27aa-2182-4189-8b61-9e41b69953dc">
 
 #### Testing: 
 
